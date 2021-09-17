@@ -17,7 +17,6 @@ So I did it and it's here '-'
 
 ### Some Images
 
-
-![img1](/imgs/img1.png)
-![img2](/imgs/img2.png)
-![img3](/imgs/img3.png)
+![img1](/img/img1.png)  
+![img2](/img/img2.png)  
+![img3](/img/img3.png)  
